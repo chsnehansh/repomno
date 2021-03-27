@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-23T00:27:20 PST" name="Suite" finished-at="2021-02-23T00:27:23 PST" duration-ms="3530">
+    <groups>
+    </groups>
+    <test started-at="2021-02-23T00:27:20 PST" name="Test" finished-at="2021-02-23T00:27:23 PST" duration-ms="3530">
+      <class name="mpack.MavenOneTest">
+        <test-method signature="mOne()[pri:0, instance:mpack.MavenOneTest@2f465398]" started-at="2021-02-23T00:27:20 PST" name="mOne" finished-at="2021-02-23T00:27:23 PST" duration-ms="3361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mOne -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:mpack.MavenOneTest@2f465398]" started-at="2021-02-23T00:27:23 PST" name="closure" finished-at="2021-02-23T00:27:23 PST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- mpack.MavenOneTest -->
+      <class name="mpack.MavenThreeTest">
+        <test-method signature="mThree()[pri:0, instance:mpack.MavenThreeTest@548e6d58]" started-at="2021-02-23T00:27:23 PST" name="mThree" finished-at="2021-02-23T00:27:23 PST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mThree -->
+      </class> <!-- mpack.MavenThreeTest -->
+      <class name="mpack.MavenTwoTest">
+        <test-method signature="mTwo()[pri:0, instance:mpack.MavenTwoTest@a1cdc6d]" started-at="2021-02-23T00:27:23 PST" name="mTwo" finished-at="2021-02-23T00:27:23 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mTwo -->
+      </class> <!-- mpack.MavenTwoTest -->
+      <class name="mpack.MavenFourTest">
+        <test-method signature="mThree()[pri:0, instance:mpack.MavenFourTest@623a8092]" started-at="2021-02-23T00:27:23 PST" name="mThree" finished-at="2021-02-23T00:27:23 PST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mThree -->
+      </class> <!-- mpack.MavenFourTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
